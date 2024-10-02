@@ -1,0 +1,7 @@
+asyncio
+# dotenv
+getenv
+pillow
+pyrogram
+tgcrypto
+watchdog

@@ -15,6 +15,7 @@ This script solves this problem by uploading the files as they're compressed, an
     git clone https://github.com/EDM115/telegram-auto-upload-folder.git
     cd telegram-auto-upload-folder
     pip install -U asyncio dotenv pillow pyrogram tgcrypto watchdog
+    pip3 install -r requirements.txt
     ```
 2. Edit the `.env` file with your own values, example :
     ```env
